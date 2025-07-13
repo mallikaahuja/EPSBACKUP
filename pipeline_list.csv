@@ -1,0 +1,9 @@
+id,Name,Service,Min_Diameter_DN,Max_Diameter_DN,Material,Design_Pressure_bar,Design_Temperature_C,Line_Weight,Stroke_Dasharray,Flow_Arrow_Required,Default_Layout_Offset
+PROCESS_VACUUM_100NB,Process Vacuum Line 100NB,Process Vacuum,100,100,Stainless Steel 316,Full Vacuum,80,3.0,,True,0
+PROCESS_VACUUM_50NB,Process Vacuum Line 50NB,Process Vacuum,50,50,Stainless Steel 316,Full Vacuum,80,2.0,,True,5
+PROCESS_VACUUM_40NB,Process Vacuum Line 40NB,Process Vacuum,40,40,Stainless Steel 316,Full Vacuum,80,2.0,,True,5
+COOLING_WATER_25NB,Cooling Water Line 25NB,Cooling Water,25,25,Carbon Steel,6,40,1.5,,True,10
+COOLING_WATER_15NB,Cooling Water Line 15NB,Cooling Water,15,15,Carbon Steel,6,40,1.0,,True,8
+NITROGEN_PURGE,Nitrogen Purge Line,Nitrogen Purge,15,25,Stainless Steel 304,7,30,1.0,5 5,False,5
+DRAIN_LINE_25NB,Drain Line 25NB,Drain,25,25,Carbon Steel,2,60,1.0,,False,0
+INSTRUMENT_AIR,Instrument Air Line,Instrument Air,15,20,Carbon Steel,7,30,1.0,5 5,False,0
